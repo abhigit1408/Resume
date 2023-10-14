@@ -1,0 +1,81 @@
+
+.left {
+
+    height:100px;
+    width:48%;
+    height:1044px;
+    float:left;
+    background-color:white;
+    /* border:1px solid aqua; */
+    
+    
+}
+.left p{
+    margin:10px;
+}
+
+.left img{
+    width:100px;
+    padding:10px 200px 5px 120px;
+    border:1px solid black;
+    
+     /* border-radius:50%;
+    border:1px solid black; */
+} 
+.left h2{
+    text-align:center;
+    color:black;
+    margin-bottom:0px;
+
+}
+.left h5{
+    color:black;
+    border-top:1px solid #42a4f5;
+    border-bottom:1px solid #42a4f5;
+    margin-top:2px;
+    padding:10px;
+    background-color:rgb(19, 82, 218);
+}
+.side h5{
+    color:black;
+    border-top:1px solid #42a4f5;
+    border-bottom:1px solid #42a4f5;
+    padding:10px;
+    background-color:rgb(19, 82, 218);
+}
+.left p{
+    text-align:justify;
+}
+ul{
+    list-style-image:url('right.png');
+}
+ol{
+    list-style-image:url('email.png');
+}
+ol.p{
+    list-style-image:url('call.png');
+}
+ol.add{
+    list-style-image:url('location.png');
+}
+ol.l{
+    list-style-image:url('linkedin.png');
+}
+body{
+    margin:0;
+    padding:0;
+    /* background-color: blue; */
+}
+.side{
+    /* border:1px solid black; */
+    width:48%;
+    height:1000px;
+    float:right;
+    background-color:white;
+    
+}
+.photo{
+    border:1px solid black;
+    width:100px;
+    margin-left:100px;
+}
